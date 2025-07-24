@@ -8,9 +8,9 @@
 - 🌍 Languages I speak: 🇹🇷Turkish (native), 🇬🇧English (C1), 🇮🇹Italian (still learning)
 
 ### Programming Languages🤓
-- 🐍[Python]
-- 👩‍💻[C]
-- 🧮[Matlab]
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
 
 ### Let's Connect🙋‍♀️
 Gmail: belizbektasl@gmail.com
