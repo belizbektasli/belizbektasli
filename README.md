@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there!👋
 
-<!--
-**belizbektasli/belizbektasli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- I'm currently studying Computer Engineering at [Politecnico di Torino] (https://www.polito.it/)
+- I love working on [Leetcode] with problems. (https://leetcode.com/u/belizbektasli/)
+- I am currently focused on self-development in my area of study and bettering myself.
+- My goal this summer: Grow my GitHub profile and get better at solving problems.
+- Languages I speak: Turkish (native), English (C1), Italian (still learning)
 
-Here are some ideas to get you started:
+### Programming Languages
+![Python]
+![C]
+![Matlab]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect
+Gmail: belizbektasl@gmail.com
+
+
