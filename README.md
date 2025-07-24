@@ -8,9 +8,9 @@
 - Languages I speak: Turkish (native), English (C1), Italian (still learning)
 
 ### Programming Languages
-![Python]
-![C]
-![Matlab]
+- [Python]
+- [C]
+- [Matlab]
 
 ### Let's Connect
 Gmail: belizbektasl@gmail.com
